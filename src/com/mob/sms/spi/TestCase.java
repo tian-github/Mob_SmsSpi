@@ -72,7 +72,7 @@ public class TestCase {
 	}
 	
 	/**
-	 * 服务端发验证服务端发送的短信
+	 * 验证服务端发送的短信验证码
 	 * @return
 	 * @throws Exception
 	 */
