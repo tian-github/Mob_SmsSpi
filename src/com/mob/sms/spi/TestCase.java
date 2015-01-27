@@ -29,8 +29,8 @@ public class TestCase {
 		String address = "https://xxxx";
 		String appkey = "xxxx";
 		String phone = "xxxx";
-		String zone = "86";
-		String code = "1234";
+		String zone = "xx";
+		String code = "xxxx";
 		MobClient client = null;
 		try {
 			client = new MobClient(address);
@@ -82,7 +82,7 @@ public class TestCase {
 		String appkey = "xx";
 		String phone = "xx";
 		String zone = "86";
-		String code = "6408";
+		String code = "xxxx";
 		MobClient client = null;
 		try {
 			client = new MobClient(address);
